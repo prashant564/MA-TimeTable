@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAtimetable</string>
+    <string name="tab_text_1">Wed</string>
+    <string name="tab_text_2">Thur</string>
+    <string name="tab_text_3">Fri</string>
+    <string name="tab_text_4">Sat</string>
+    <string name="tab_text_5">Sun</string>
+    <string name="tab_text_6">Mon</string>
+</resources>

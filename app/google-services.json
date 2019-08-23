@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756549369341",
+    "firebase_url": "https://psy-timetable.firebaseio.com",
+    "project_id": "psy-timetable",
+    "storage_bucket": "psy-timetable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756549369341:android:c280dca161a5754c",
+        "android_client_info": {
+          "package_name": "com.example.matimetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756549369341-5cpfiec84kotknf9ta5ljeg1no50a15h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj4lr_I66qDxQ-zcsqgWiNRK72VKc633U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756549369341-5cpfiec84kotknf9ta5ljeg1no50a15h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
