@@ -20,7 +20,7 @@ class Thurs : Fragment(){
     val thur_type: Array<String> = arrayOf("LEC","LEC","LEC","LAB")
     val thur_subject: Array<String> = arrayOf("Indigenous Psychology","Social Science Perspective","Cognitive Psychology","Psychology Lab-1")
     val thur_venue: Array<String> = arrayOf("301","203","316","317")
-    val thur_faculty: Array<String> = arrayOf("Dr Arun","Gautam","Dr Sandhya","Anjali")
+    val thur_faculty: Array<String> = arrayOf("Dr Arun","Mr. Gautam","Dr Sandhya","Ms. Anjali")
     val thur_time: Array<String> = arrayOf("10:05-11:00","11:05-12:00","12:05-1:00","3:05-5:00")
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {

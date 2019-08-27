@@ -18,7 +18,7 @@ class Fri : Fragment(){
     val fri_type: Array<String> = arrayOf("LAB","LEC","LEC","LEC","LEC")
     val fri_subject: Array<String> = arrayOf("Psychology Lab-1","Social Science Perspective","Cognitive Psychology","Indigenous Psychology","Theories of Personality")
     val fri_venue: Array<String> = arrayOf("301","203","316","301","301")
-    val fri_faculty: Array<String> = arrayOf("Dr Sujeet","Gautam","Dr. Sandhya","Dr. Arun","Rubi")
+    val fri_faculty: Array<String> = arrayOf("Dr Sujeet","Mr. Gautam","Dr. Sandhya","Dr. Arun","Ms. Rubi")
     val fri_time: Array<String> = arrayOf("9:05-11:00","11:05-12:00","12:05-1:00","3:05-4:00","4:05-5:00")
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {

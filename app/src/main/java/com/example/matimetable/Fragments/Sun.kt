@@ -18,7 +18,7 @@ class Sun : Fragment(){
     val sun_type: Array<String> = arrayOf("LAB","LEC","LEC","LEC")
     val sun_subject: Array<String> = arrayOf("Psychology Lab-1","Social Science Perspective","Cognitive Psychology","Theories of Personality")
     val sun_venue: Array<String> = arrayOf("301","203","316","301")
-    val sun_faculty: Array<String> = arrayOf("Dr Sujeet","Gautam","Dr. Sandhya","Rubi")
+    val sun_faculty: Array<String> = arrayOf("Dr Sujeet","Mr. Gautam","Dr. Sandhya","Ms. Rubi")
     val sun_time: Array<String> = arrayOf("9:05-11:00","11:05-12:00","12:05-1:00","4:05-5:00")
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.coordinatorlayout.widget.CoordinatorLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
-        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/background_pic"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:background="@drawable/logoback"
         tools:context=".MainActivity">
 
     <com.google.android.material.appbar.AppBarLayout
@@ -15,15 +15,16 @@
 
         <TextView
                 android:id="@+id/title"
-                android:layout_width="415dp"
-                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 android:background="@drawable/navbar_activity_main"
                 android:gravity="center"
                 android:minHeight="?actionBarSize"
                 android:padding="@dimen/appbar_padding"
                 android:text="@string/app_name"
                 android:textAlignment="viewStart"
-                android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title" />
+                android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title"
+                tools:ignore="RtlCompat" />
 
         <com.google.android.material.tabs.TabLayout
                 android:id="@+id/tabs"

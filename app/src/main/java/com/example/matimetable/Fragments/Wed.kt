@@ -23,7 +23,7 @@ class Wed : Fragment(){
     val wed_type: Array<String> = arrayOf("LEC","LEC","LAB")
     val wed_subject: Array<String> = arrayOf("Indigenous Psychology","Theories of Personality","Psychology Lab-1")
     val wed_venue: Array<String> = arrayOf("301","316","317")
-    val wed_faculty: Array<String> = arrayOf("Dr Arun","Rubi","Anjali")
+    val wed_faculty: Array<String> = arrayOf("Dr Arun","Ms. Rubi","Ms. Anjali")
     val wed_time: Array<String> = arrayOf("10:05-11:00","12:05-1:00","3:05-5:00")
     val counter:Int = 3
 

@@ -18,7 +18,7 @@ class Mon : Fragment(){
     val mon_type: Array<String> = arrayOf("LEC","LEC","LEC","LEC")
     val mon_subject: Array<String> = arrayOf("Social Science Perspective","Cognitive Psychology","Indigenous Psychology","Theories of Personality")
     val mon_venue: Array<String> = arrayOf("203","316","301","301")
-    val mon_faculty: Array<String> = arrayOf("Gautam","Dr. Sandhya","Dr. Arun","Rubi")
+    val mon_faculty: Array<String> = arrayOf("Mr. Gautam","Dr. Sandhya","Dr. Arun","Ms. Rubi")
     val mon_time: Array<String> = arrayOf("11:05-12:00","12:05-1:00","3:05-4:00","4:05-5:00")
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
